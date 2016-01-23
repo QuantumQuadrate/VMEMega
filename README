@@ -1,0 +1,7 @@
+VMEMega is a modified ardunino mega board designed to fit into the VME system designed for Saffman lab.
+It has 3 communication interfaces (USB/Serial, Ethernet, I2C over backplane) and is designed to host normal mega compatible arduino shields.
+
+Matthew Ebert
+Atom Trainers (Walekr Lab) and Saffman Lab
+
+Licenced uner the Arduino Creative Commons Share-Alike licence.
